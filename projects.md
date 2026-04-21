@@ -25,5 +25,5 @@ Building scalable AI-driven products with a focus on healthcare, recruitment int
 ### ⚖️ Other Work
 *Pursuing personal projects and technical research*
 
-* [LoRA Project](./projects/LoRA%20Project.html)
+* [LoRa Project](./projects/LoRa%20Project.html)
 * [KaizenCode](./projects/KaizenCode.html)
