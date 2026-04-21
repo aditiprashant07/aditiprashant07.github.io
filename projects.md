@@ -9,7 +9,7 @@ Building scalable AI-driven products with a focus on healthcare, recruitment int
 
 ### 🩺 Healthcare and IoT Projects 
 * A real-time monitoring and analytics ecosystem*
-  
+    
 * [Medbot.md](./projects/Medbot.html)
 * [React for Medbot.md](./projects/ReactforMedbot.html)
 * [Cloud Formation.md](./projects/CloudFormation.html)
