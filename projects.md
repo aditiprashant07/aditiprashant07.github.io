@@ -11,20 +11,19 @@ Building scalable AI-driven products with a focus on healthcare, recruitment int
 *A real-time monitoring and analytics ecosystem*
 
 * [Medbot](./projects/Medbot.html)
-* [React for Medbot](./projects/ReactforMedbot.html)
-* [Cloud Formation](./projects/CloudFormation.html)
+* [React for Medbot](./projects/React%20for%20Medbot.html)
+* [Cloud Formation](./projects/Cloud%20Formation.html)
 
 ### 🤖 Recruitment Intelligence (Adept AI)
 *An ethical AI suite for recruitment and hiring intelligence*
 
-* [Verification Flow for Adept AI](./projects/VerificationFlowforAdeptAI.html)
-* [Adept AI Job Recommendation](./projects/AdeptAIJobRecommendation.html)
-* [Adept AI Talent Matchmaker](./projects/AdeptAITalentMatchmaker.html)
-* [AI Compliance Chatbot](./projects/AIComplianceChatbot.html)
+* [Verification Flow for Adept AI](./projects/Verification%20Flow%20for%20Adept%20AI.html)
+* [Adept AI Job Recommendation](./projects/Adept%20AI%20Job%20Recommendation.html)
+* [Adept AI Talent Matchmaker](./projects/Adept%20AI%20Talent%20Matchmaker.html)
+* [AI Compliance Chatbot](./projects/AI%20Compliance%20Chatbot.html)
 
 ### ⚖️ Other Work
-*Pursuing my own ideas either through the implementation of research papers or my own ideas*
+*Pursuing personal projects and technical research*
 
-* [LoRa Project](./projects/LoRaProject.html)
+* [LoRA Project](./projects/LoRA%20Project.html)
 * [KaizenCode](./projects/KaizenCode.html)
-  
