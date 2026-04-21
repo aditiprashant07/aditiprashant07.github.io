@@ -3,4 +3,4 @@ layout: page
 title: Resume
 ---
 
-Resume 
+[Resume]({{ site.baseurl }}/assets/resume/AditiPrashant_Resume.pdf)
