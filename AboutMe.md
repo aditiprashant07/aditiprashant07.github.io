@@ -22,5 +22,4 @@ Beyond the screen and the code, I lead an active and engaged life fueled by seve
 
 📧 Email: reachaditiprashant.com  
 🔗 LinkedIn: https://www.linkedin.com/in/aditi-prashant/ 
-
 💻 GitHub: https://github.com/aditiprashant07
