@@ -3,8 +3,6 @@ layout: page
 title: Certificates
 ---
 
-# 📜 Professional Certifications
-
 ### ☁️ Cloud & Database Engineering
 *Specialized training in scalable infrastructure and data persistence.*
 
