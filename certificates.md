@@ -6,9 +6,9 @@ title: Certificates
 ### ☁️ Cloud & Database Engineering
 *Specialized training in scalable infrastructure and data persistence.*
 
-* **[Introduction to Building with AWS Databases]({{ site.baseurl }}/assets/certificates/13585_3_7196557_1741766507_AWS%20Course%20Completion%20Certificate.pdf)**
-* **[Oracle SQL Databases]({{ site.baseurl }}/assets/certificates/Coursera%20DBS%201.pdf)**
-* **[Algorithms for Searching, Sorting, and Indexing]({{ site.baseurl }}/assets/certificates/Coursera%20DAA.pdf)**
+* [Introduction to Building with AWS Databases]({{ site.baseurl }}/assets/certificates/13585_3_7196557_1741766507_AWS%20Course%20Completion%20Certificate.pdf)
+* [Oracle SQL Databases]({{ site.baseurl }}/assets/certificates/Coursera%20DBS%201.pdf)
+* [Algorithms for Searching, Sorting, and Indexing]({{ site.baseurl }}/assets/certificates/Coursera%20DAA.pdf)
 
 ---
 
