@@ -13,4 +13,4 @@ Welcome to my portfolio website.
 * [Read Blog](blog.html)
 * [View Skills](skills.html)
 * [View Certificates](certificates.html)
-* [About Me](aboutme.html)
+* [About Me](AboutMe.html)
