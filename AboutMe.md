@@ -20,6 +20,6 @@ I am a Computer Science and Engineering student at Manipal Academy of Higher Edu
 ## Beyond Code
 Beyond the screen and the code, I lead an active and engaged life fueled by several personal passions. I am an enthusiastic athlete and have competed regularly in basketball tournaments, an experience that has deeply instilled in me a strong sense of teamwork and a natural competitive drive. When I am not on the court, I find balance as a dedicated lover of music and books. I am constantly seeking out new perspectives, whether they are found within the technical rigor of a complex manual or the immersive narrative of a great work of fiction.
 
-📧 Email: your@email.com  
-🔗 LinkedIn: your link  
-💻 GitHub: your profile
+📧 Email: reachaditiprashant.com  
+🔗 LinkedIn: https://www.linkedin.com/in/aditi-prashant/ 
+💻 GitHub: https://github.com/aditiprashant07
