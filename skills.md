@@ -1,46 +1,54 @@
----
-layout: page
-title: Skills
----
+### 💻 Programming
+* **Languages:** Python, Java, C, SQL, JavaScript, Bash
 
-# 🛠 Technical & Professional Skills
+### 🔌 Backend & APIs
+*Building and securing service layers.*
 
-### 🚀 Product & AI Strategy
-*Focused on the intersection of engineering and business value.*
+* **Frameworks:** FastAPI, Flask
+* **API Design:** REST APIs, Microservices, JWT Authentication
 
-* **Product Lifecycle:** Agile Development, Product Analysis, Requirement Extraction.
-* **AI Orchestration:** LLM Fine-tuning (LoRA), RAG (Retrieval-Augmented Generation), Prompt Engineering.
-* **Ethics & Compliance:** AI Fairness Auditing, Explainable AI (XAI), Regulatory Compliance Modules.
+### ☁️ Cloud & AWS
+*End-to-end cloud-native infrastructure.*
 
----
+* **Compute & Messaging:** AWS Lambda, API Gateway, SQS, SNS, EventBridge, Kinesis, ECS, Fargate
+* **Data & Storage:** S3, DynamoDB, Aurora MySQL, RDS PostgreSQL, RDS Proxy, ElastiCache Redis, Timestream
+* **Intelligence & IoT:** AWS Textract, IoT Core
+* **Networking & Ops:** VPC, CloudWatch, Secrets Manager, SSM Parameter Store
 
-### ☁️ Cloud & Infrastructure (AWS Ecosystem)
-*Architecting secure, scalable, and event-driven systems.*
+### 🤖 AI & LLMs
+*Building on top of foundation models.*
 
-* **Compute & Automation:** AWS Lambda, ECS Fargate, App Runner, EventBridge.
-* **Data & Storage:** DynamoDB, Aurora (PostgreSQL), S3, Timestream (Time-series data).
-* **Intelligence Services:** AWS Textract, SageMaker, IoT Core.
-* **DevOps:** CloudFormation (IaC), Git/GitHub Actions, CI/CD Pipelines.
+* **Providers:** Anthropic Claude, OpenAI APIs, OpenAI Whisper, Hugging Face
+* **Techniques:** Prompt Engineering, RAG, Semantic Search, Entity Extraction, LLM Evaluation
+* **Embeddings:** SentenceTransformers
 
----
-
-### 🧠 Machine Learning & Data Science
+### 🧠 Machine Learning & Data
 *Extracting insights from complex datasets.*
 
-* **Frameworks:** PyTorch, Hugging Face, Scikit-learn.
-* **Computer Vision:** Vision Transformers (DeiT), Image Classification, Grad-CAM.
-* **Data Processing:** Pandas, NumPy, SQL, Feature Engineering.
+* **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+* **Vector Search:** FAISS, Vector Embeddings, Cosine Similarity
+* **Applications:** Candidate Ranking, Anomaly Detection
 
----
+### 🗄️ Databases & Search
+* **Relational:** PostgreSQL, MySQL, Amazon Aurora
+* **NoSQL & Vector:** DynamoDB, NoSQL, pgvector, Vector Search
 
-### 🛡️ Cybersecurity & Robustness
-*Applying a security-first mindset to software development.*
+### 📄 Document Processing
+* **Extraction:** AWS Textract, OCR, PyPDF, python-docx
+* **Integrity:** File Type Detection, SHA-256 Hashing, Data Deduplication
 
-* **Network Security:** Traffic Analysis (Wireshark), Automated Threat Detection, Nmap.
-* **Methodologies:** Vulnerability Assessment, Incident Response, Shell Scripting.
+### ⚙️ DevOps & Infrastructure
+* **Containers & IaC:** Docker, AWS CloudFormation, Infrastructure as Code
+* **Workflow:** Git, GitHub, GitHub Actions, CI/CD, VS Code, Google Colab
 
----
+### 🎨 Frontend
+* **Libraries:** React.js
 
-### 💻 Programming & Tools
-* **Languages:** Python (Expert), Java, JavaScript (React/Node.js), C, SQL.
-* **Development:** FastAPI, Flask, VS Code, Ollama (Local LLM Execution).
+### ⚖️ Responsible AI
+*Auditing systems for fairness and transparency.*
+
+* **Practices:** Explainable AI, Bias Detection, Fairness Auditing, Statistical Parity, Disparate Impact Analysis, Audit Logging
+
+### 🛡️ Cybersecurity
+* **Tools:** Nmap, Burp Suite, Wireshark, hping3, Kali Linux
+* **Practices:** Network Monitoring, Vulnerability Assessment
