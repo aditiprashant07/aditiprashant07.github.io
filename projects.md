@@ -20,6 +20,7 @@ Building scalable AI-driven products with a focus on healthcare, recruitment int
 * [Verification Flow for Adept AI](./projects/Verification%20Flow%20for%20Adept%20AI.html)
 * [Adept AI Job Recommendation](./projects/Adept%20AI%20Job%20Recommendation.html)
 * [Adept AI Talent Matchmaker](./projects/Adept%20AI%20Talent%20Matchmaker.html)
+* [Resume Ingestion Pipeline](./projects/Resume%20Ingestion%20Pipeline.html)
 * [AI Compliance Chatbot](./projects/AIComplianceChatbot.html)
 
 ### ⚖️ Other Work
