@@ -1,30 +1,24 @@
 ---
 layout: page
 title: Projects
+permalink: /projects/
 ---
 
-## 🚀 My Projects
+# Featured Engineering Projects
 
-Building scalable AI-driven products with a focus on healthcare, recruitment intelligence, and cloud-native architecture.
+### Healthcare & IoT Infrastructure
+* [Enterprise Serverless IoT Healthcare Telemetry Platform (IaC)]({{ site.baseurl }}/projects/MedBot)
+* [React Patient & Clinician Dashboard for MedBot]({{ site.baseurl }}/projects/React%20for%20Medbot)
 
-### 🩺 Healthcare and IoT Projects
-*A real-time monitoring and analytics ecosystem*
+### Applied Machine Learning & Computer Vision
+* [Low-Rank Adaptation (LoRa) on Vision Transformers for Medical Imaging]({{ site.baseurl }}/projects/LoRa%20Project)
 
-* [MedBot](./projects/MedBot.html)
-* [React for Medbot](./projects/React%20for%20Medbot.html)
-* [Cloud Formation](./projects/Cloud%20Formation.html)
+### Recruitment Intelligence & Data Engineering (Adept AI)
+* [High-Throughput Resume Ingestion Pipeline]({{ site.baseurl }}/projects/Resume%20Ingestion%20Pipeline)
+* [Talent Matching & Skill Extraction Engine]({{ site.baseurl }}/projects/Adept%20AI%20Talent%20Matchmaker)
+* [Semantic Job Recommendation System]({{ site.baseurl }}/projects/Adept%20AI%20Job%20Recommendation)
+* [Automated Candidate Verification Flow]({{ site.baseurl }}/projects/Verification%20Flow%20for%20Adept%20AI)
+* [Enterprise AI Compliance Chatbot]({{ site.baseurl }}/projects/AIComplianceChatbot)
 
-### 🤖 Recruitment Intelligence (Adept AI)
-*An ethical AI suite for recruitment and hiring intelligence*
-
-* [Verification Flow for Adept AI](./projects/Verification%20Flow%20for%20Adept%20AI.html)
-* [Adept AI Job Recommendation](./projects/Adept%20AI%20Job%20Recommendation.html)
-* [Adept AI Talent Matchmaker](./projects/Adept%20AI%20Talent%20Matchmaker.html)
-* [Resume Ingestion Pipeline](./projects/Resume%20Ingestion%20Pipeline.html)
-* [AI Compliance Chatbot](./projects/AIComplianceChatbot.html)
-
-### ⚖️ Other Work
-*Pursuing personal projects and technical research*
-
-* [LoRa Project](./projects/LoRa%20Project.html)
-* [KaizenCode](./projects/KaizenCode.html)
+### Cloud Infrastructure & Automation
+* [Modular Multi-Environment AWS CloudFormation Framework]({{ site.baseurl }}/projects/Cloud%20Formation)
