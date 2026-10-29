@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Near-Real-Time Deforestation Detection"
 permalink: /projects/deforestation-detection/
 ---
 
