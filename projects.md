@@ -6,9 +6,9 @@ permalink: /projects/
 
 ## Machine Learning & Computer Vision
 
-* **LoRA and BUSI — Breast Ultrasound Image Analysis**
-  - Explores parameter-efficient fine-tuning with Low-Rank Adaptation (LoRA) for a medical-imaging task using the BUSI breast ultrasound dataset.
-  - Focuses on applying deep-learning techniques to support analysis of ultrasound images.
+* [LoRA and BUSI — Breast Ultrasound Image Analysis]({{ site.baseurl }}/projects/lora-busi/)
+  - Explores parameter-efficient fine-tuning with Low-Rank Adaptation (LoRA) for breast ultrasound image classification using the BUSI dataset and a pretrained DeiT vision transformer.
+  - Includes training and evaluation workflow, classification metrics, and Grad-CAM visualizations.
 
 * **Deforestation Detection**
   - A near-real-time satellite imagery project for detecting and monitoring deforestation.
