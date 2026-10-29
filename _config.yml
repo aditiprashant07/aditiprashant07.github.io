@@ -1,3 +1,13 @@
 title: Aditi Prashant
 description: My Portfolio and Blog
 theme: minima
+
+# Explicitly list the pages that should appear in the header navigation.
+# Project detail pages under /projects/ remain accessible from Projects,
+# but are not added as separate navigation items.
+header_pages:
+  - index.md
+  - blog.md
+  - certificates.md
+  - projects.md
+  - resume.md
