@@ -1,0 +1,26 @@
+{%- assign default_paths = site.pages | sort: "path" -%}
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <nav class="site-nav" aria-label="Main navigation">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
+            <path d="M18,1.5H0v-1h18v1z M18,8H0V7h18v1z M18,14.5H0v-1h18v1z" />
+          </svg>
+        </span>
+      </label>
+      <div class="trigger">
+        <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
+        <a class="page-link" href="{{ "/AboutMe.html" | relative_url }}">About Me</a>
+        <a class="page-link" href="{{ "/blog.html" | relative_url }}">Blog</a>
+        <a class="page-link" href="{{ "/certificates.html" | relative_url }}">Certificates</a>
+        <a class="page-link" href="{{ "/projects/" | relative_url }}">Projects</a>
+        <a class="page-link" href="{{ "/resume.html" | relative_url }}">Resume</a>
+        <a class="page-link" href="{{ "/skills.html" | relative_url }}">💻 Programming</a>
+      </div>
+    </nav>
+  </div>
+</header>
