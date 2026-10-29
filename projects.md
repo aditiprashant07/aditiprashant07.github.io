@@ -10,9 +10,9 @@ permalink: /projects/
   - Explores parameter-efficient fine-tuning with Low-Rank Adaptation (LoRA) for breast ultrasound image classification using the BUSI dataset and a pretrained DeiT vision transformer.
   - Includes training and evaluation workflow, classification metrics, and Grad-CAM visualizations.
 
-* **Deforestation Detection**
-  - A near-real-time satellite imagery project for detecting and monitoring deforestation.
-  - Processes imagery to help identify forest-cover changes and make monitoring results easier to interpret.
+* [Deforestation Detection — Satellite-Based Forest Change Monitoring]({{ site.baseurl }}/projects/deforestation-detection/)
+  - An end-to-end Sentinel-2 pipeline using multispectral imagery, a four-channel U-Net, and temporal change detection.
+  - Converts candidate forest-loss regions into GeoJSON polygons and visualizes them in a Streamlit/Folium dashboard.
 
 ## Cloud & Data Engineering
 
