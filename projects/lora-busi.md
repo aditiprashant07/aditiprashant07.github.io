@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "LoRA and BUSI: Breast Ultrasound Image Classification"
 permalink: /projects/lora-busi/
 ---
 
