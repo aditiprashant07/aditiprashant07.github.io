@@ -16,12 +16,11 @@ permalink: /projects/
 
 ## Cloud & Data Engineering
 
-* [Serverless IoT Data Pipeline with AWS CloudFormation]({{ site.baseurl }}/projects/CloudFormation)
-  - A modular Infrastructure as Code (IaC) deployment for IoT telemetry ingestion, S3/Firehose archiving, EventBridge event routing, and serverless querying.
+* [Serverless IoT Anomaly Detection Pipeline with AWS CloudFormation]({{ site.baseurl }}/projects/cloudformation-iot/)
+  - Modular Infrastructure as Code for device data, streaming ingestion, serverless anomaly detection, event routing, storage, notifications, and APIs.
 
-* **Clinical Detection Pipeline — React Interface**
-  - A React-based interface for interacting with a clinical detection pipeline.
-  - Organizes pipeline inputs and outputs in a user-facing workflow for reviewing detection results.
+* [React Native IoT Dashboard]({{ site.baseurl }}/projects/react-native-iot-dashboard/)
+  - A cross-platform dashboard interface for monitoring IoT telemetry, device status, and device-management workflows.
 
 * **Resume Ingestion and Processing Pipeline**
   - An automated workflow for ingesting resumes and extracting structured candidate information.
@@ -29,14 +28,16 @@ permalink: /projects/
 
 ## Applied AI
 
-* **AI Compliance Assistant**
-  - A retrieval-augmented generation (RAG) assistant designed to answer compliance-related questions through a conversational interface.
-  - Uses a language model and retrieved context to provide responses grounded in relevant compliance information.
+* [AI Compliance Assistant]({{ site.baseurl }}/projects/ai-compliance/)
+  - A RAG-based compliance assistant with document ingestion, vector retrieval, conversational sessions, structured assessments, scoring, and report generation.
 
-* **Talent Matchmaker**
-  - An AI-powered recruitment tool that matches candidate profiles with role requirements.
-  - Combines resume information and job criteria to help surface relevant candidate-role matches.
+* [Talent Matchmaker]({{ site.baseurl }}/projects/talent-matchmaker/)
+  - A multi-stage recruitment matching pipeline that parses job descriptions, filters and ranks candidate profiles, and applies AI-assisted assessment.
 
-* **Job Recommendation Pipeline**
-  - A recommendation workflow that uses candidate profiles and job information to identify potentially relevant opportunities.
-  - Structures candidate and job data for matching and personalized recommendations.
+* [Job Recommendation Pipeline]({{ site.baseurl }}/projects/job-recommendation/)
+  - A hybrid recommendation and matching system combining semantic embeddings, structured scoring, explainable traces, and audit logging.
+
+## Developer Tools
+
+* [KaizenCode — VS Code Developer Analysis Extension]({{ site.baseurl }}/projects/kaizen-code/)
+  - A VS Code extension project with an Activity Bar analysis view, TypeScript extension scaffold, webview UI, and supporting service structure.
