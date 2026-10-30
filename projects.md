@@ -22,9 +22,8 @@ permalink: /projects/
 * [React Native IoT Dashboard]({{ site.baseurl }}/projects/react-native-iot-dashboard/)
   - A cross-platform dashboard interface for monitoring IoT telemetry, device status, and device-management workflows.
 
-* **Resume Ingestion and Processing Pipeline**
-  - An automated workflow for ingesting resumes and extracting structured candidate information.
-  - Supports downstream processing and integration with recruitment and recommendation workflows.
+* [Resume Ingestion and Processing Pipeline]({{ site.baseurl }}/projects/resume-ingestion-pipeline/)
+  - An asynchronous AWS-based workflow for individual and bulk resume uploads, format-aware text extraction, OCR fallback, normalization, SHA-256 hashing, and candidate metadata persistence.
 
 ## Applied AI
 
